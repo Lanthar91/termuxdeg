@@ -1,0 +1,38 @@
+# Base System
+xorg-server
+xorg-xinit
+dbus
+
+# WM and Compositor
+openbox
+picom
+
+# Panel and Launcher
+tint2
+rofi
+
+# Notifications
+dunst
+libnotify
+
+# Applications
+pcmanfm
+xfce4-terminal
+
+# Appearance
+papirus-icon-theme
+ttf-dejavu
+ttf-liberation
+
+# Utilities
+feh
+scrot
+parcellite
+xdg-user-dirs
+
+# On-screen Keyboard
+onboard
+
+# Audio (optional)
+pulseaudio
+pavucontrol

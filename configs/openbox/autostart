@@ -1,0 +1,19 @@
+# ~/.config/openbox/autostart
+
+# Compositor
+picom -b &
+
+# Panel
+tint2 &
+
+# Notification daemon
+dunst &
+
+# Clipboard manager
+parcellite &
+
+# Wallpaper
+feh --bg-fill /usr/share/backgrounds/archlinux/simple.png || feh --bg-fill ~/assets/wallpaper.png &
+
+# On-screen keyboard
+onboard &

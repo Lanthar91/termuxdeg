@@ -1,0 +1,43 @@
+# tint2rc for Mobile-Friendly UI
+# Position: Vertical Left
+
+panel_monitor = all
+panel_position = center left vertical
+panel_size = 100% 64
+panel_margin = 0 0
+panel_padding = 4 4 4
+panel_background_id = 1
+wm_menu = 1
+
+# Backgrounds
+background_id = 1
+rounded = 0
+border_width = 0
+background_color = #202020 90
+
+# Taskbar
+taskbar_mode = single_desktop
+taskbar_padding = 2 4 2
+taskbar_background_id = 0
+taskbar_active_background_id = 0
+
+# Task
+task_icon = 1
+task_text = 0
+task_maximum_size = 60 60
+task_padding = 4 4
+task_icon_asb = 100 0 0
+
+# Launcher
+launcher_padding = 4 8 4
+launcher_background_id = 0
+launcher_icon_size = 48
+launcher_item_app = /usr/share/applications/rofi.desktop
+launcher_item_app = /usr/share/applications/xfce4-terminal.desktop
+launcher_item_app = /usr/share/applications/pcmanfm.desktop
+
+# System Tray
+systray_padding = 4 4 4
+systray_background_id = 0
+systray_icon_size = 24
+systray_icon_asb = 100 0 0
