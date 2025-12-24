@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a specification and implementation plan for a **mobile-friendly desktop environment** designed to run within **Arch Linux** via **Termux proot** on Android devices.
+This project is a specification and implementation plan for a **mobile-friendly desktop environment** designed to run within **Arch Linux** or **Debian/Ubuntu** via **Termux proot** on Android devices.
 
 The goal is to provide a "ready-to-use" environment optimized for touch interaction on small screens, featuring:
 
